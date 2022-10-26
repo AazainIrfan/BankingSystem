@@ -1,0 +1,8 @@
+C:\Users\azain\Desktop\c#\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\azain\Desktop\c#\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\azain\Desktop\c#\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\azain\Desktop\c#\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\azain\Desktop\c#\BankAccount\obj\Debug\BankAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\azain\Desktop\c#\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\azain\Desktop\c#\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\azain\Desktop\c#\BankAccount\obj\Debug\BankAccount.pdb
