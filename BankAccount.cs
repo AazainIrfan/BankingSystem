@@ -12,9 +12,6 @@ namespace BankAccount
         public string AccountHolderName { get;  }
         public string AccountNumber { get; }
         int AccountBalance; 
-     
-      
-
 
         public BankAccount(AccountData  ObjAd) //Constructor
         {
